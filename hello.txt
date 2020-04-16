@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCAA-1A16
+
+ Directory of C:\Users\ULKESH\Desktop\MyProject
+
+16/04/2020  07:49 PM    <DIR>          .
+16/04/2020  07:49 PM    <DIR>          ..
+16/04/2020  07:49 PM                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  166,632,398,848 bytes free
